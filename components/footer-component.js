@@ -6,19 +6,19 @@ Vue.component('site-footer', {
               <div class="col-lg-4">
                 <div class="widget">
                   <a href="index.html"
-                    ><img alt="" class="img-fluid mb20" src="images/LOG.png" style="height:70px"
+                    ><img alt="" class="img-fluid mb20" src="images/logo.png" style="height:70px"
                   /></a>
                   <address class="s1">
                     <span
-                      ><i class="id-color fa fa-map-marker fa-lg"></i>08 W 36th St, New
-                      York, NY 10001</span
+                      ><i class="id-color fa fa-map-marker fa-lg"></i>Langley, McLean, Virginia.</span
                     >
                     <span><i class="id-color fa fa-phone fa-lg"></i>+1 333 9296</span>
                     <span
                       ><i class="id-color fa fa-envelope-o fa-lg"></i
-                      ><a href="mailto:contact@example.com">contact@example.com</a></span
+                      ><a href="mailto:andrew_ehrlich@yahoo.com
+">andrew_ehrlich@yahoo.com
+</a></span
                     >
-               
                   </address>
                 </div>
               </div>

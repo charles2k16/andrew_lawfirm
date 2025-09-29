@@ -9,8 +9,8 @@ Vue.component('site-header', {
                     <!-- logo begin -->
                     <div id="logo">
                       <a href="index.html">
-                        <img alt="" class="logo" src="images/LOG.png" height="70px" />
-                          <img alt="" class="logo-2" src="images/LOG.png" height="70px" />
+                        <img alt="" class="logo" src="images/logo.png" height="70px" />
+                          <img alt="" class="logo-2" src="images/logo2.png" height="70px" />
                
                       </a>
                     </div>
