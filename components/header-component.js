@@ -34,7 +34,6 @@ Vue.component('site-header', {
                     </ul>
                     <!-- mainmenu close -->
                   </div>
-                  
                 </div>
               </div>
             </div>
