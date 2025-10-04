@@ -34,13 +34,7 @@ Vue.component('site-header', {
                     </ul>
                     <!-- mainmenu close -->
                   </div>
-                  <div class="de-flex-col">
-                    <div class="h-phone md-hide">
-                      <span>Need&nbsp;Help?</span><i class="fa fa-phone"></i> 1 200 300
-                      9000
-                    </div>
-                    <span id="menu-btn"></span>
-                  </div>
+                  
                 </div>
               </div>
             </div>
