@@ -12,7 +12,7 @@ Vue.component('site-footer', {
                     <span
                       ><i class="id-color fa fa-map-marker fa-lg"></i>Langley, McLean, Virginia.</span
                     >
-                    <span><i class="id-color fa fa-phone fa-lg"></i>+1 333 9296</span>
+                
                     <span
                       ><i class="id-color fa fa-envelope-o fa-lg"></i
                       ><a href="mailto:andrew_ehrlich@yahoo.com
